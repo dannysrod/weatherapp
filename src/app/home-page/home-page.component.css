@@ -1,0 +1,12 @@
+#container{
+    margin: 10px;
+}
+
+#search{
+    text-align: center;
+    font-size: 40px;
+}
+#body {
+  background-image: url("src/assets/background.jpg");
+  background-color: #cccccc;
+ }
